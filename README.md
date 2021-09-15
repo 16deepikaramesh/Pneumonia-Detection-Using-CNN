@@ -9,3 +9,6 @@ Project Setup.pdf can be refered to set our project in your local machine
 
 ![Homepage](/Screenshots/SS1.PNG?raw=true "Home page")
 
+![Homepage](/Screenshots/SS2.PNG?raw=true "Home page")
+
+![Homepage](/Screenshots/SS3.PNG?raw=true "Home page")
