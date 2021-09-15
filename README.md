@@ -6,3 +6,5 @@ The main objective of this project is to deliver an end product that receives in
 Project Setup.pdf can be refered to set our project in your local machine
 
 # Screenshots 
+
+![Homepage](/Screenshots/Homepage.png?raw=true "Home page")
