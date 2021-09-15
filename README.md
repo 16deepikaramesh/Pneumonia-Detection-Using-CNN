@@ -7,4 +7,5 @@ Project Setup.pdf can be refered to set our project in your local machine
 
 # Screenshots 
 
-![Homepage](/Screenshots/Homepage.jpg?raw=true "Home page")
+![Homepage](/Screenshots/SS1.PNG?raw=true "Home page")
+
